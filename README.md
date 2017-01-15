@@ -1,4 +1,4 @@
-openCV
+openCV - Cookbook
 ======
 
-openCV works and samples
+This repo contains material from the cookbook: Computer Vision Programming using the OpenCV Library.
